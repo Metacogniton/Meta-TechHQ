@@ -1,0 +1,14 @@
+Meta-TechHq/
+├── addons/
+│   └── plugin.video.myaddon/
+│       ├── addon.xml
+│       ├── icon.png
+│       └── other files (e.g., default.py, resources/)
+├── addons.xml
+├── addons.xml.md5
+└── repository.myrepo/
+    ├── addon.xml
+    └── fanart.jpg (optional)
+    └── icon.png (optional)
+    └── addons.xml
+    └── addons.xml.md5
