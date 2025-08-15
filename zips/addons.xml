@@ -1,0 +1,16 @@
+<addons>
+<?xmladdonion="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.metatechhq" name="Meta-Tech HQ Repository" version="1.0.0" provider-name="Metacogniton" type="xbmc.addon.repository">
+  <extension point="xbmc.addon.repository" name="Meta-Tech HQ">
+    <info compressed="false">https://raw.githubusercontent.com/Metacogniton/Meta-TechHQ/main/zips/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/Metacogniton/Meta-TechHQ/main/zips/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/Metacogniton/Meta-TechHQ/main/zips/</datadir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Meta-Tech repo for skin/settings updates</summary>
+    <description lang="en">Repository to distribute Meta-Tech skin tweaks and configuration add-ons.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+</addons>
